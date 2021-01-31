@@ -1,0 +1,5 @@
+
+<Context path="/ssj_ex15">
+	<ResourceLink name="jdbc/ssjdb" global="ssjdb"
+		type="javax.sql.DataSource" />
+</Context>
